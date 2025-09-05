@@ -1,2 +1,3 @@
-# Wen Dinh
-print("Hello, World!")
+name = "Wen Dinh"
+
+print("Hello, World! I'm", (name))
